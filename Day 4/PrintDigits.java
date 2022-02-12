@@ -36,13 +36,13 @@ public class PrintDigits {
     static void printDigits(long n) {
         long count = countDigits(n);
         long div = (long) Math.pow(10, count - 1);
-        while (n > 10) {
+        while (div != 0) {
             System.out.println(n / div);
             n = n % div;
             div /= 10;
 
         }
-        System.out.println(n);
+
     }
 
     static long countDigits(long n) {

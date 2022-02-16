@@ -20,6 +20,7 @@ Sample Input
 Sample Output
 7 2
 
+
 */
 import java.io.*;
 import java.util.*;

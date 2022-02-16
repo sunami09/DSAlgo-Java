@@ -5,6 +5,15 @@
 
 Constraints
 2 <= n < 10^9
+
+Example
+Sample Input
+
+6
+
+Sample Output
+1
+4
 */
 
 import java.util.*;

@@ -25,12 +25,12 @@ class SecondLargest {
         int a = in.nextInt();
         int b = in.nextInt();
         int c = in.nextInt();
-        if (a > b && a < c || a < b && a > c) {
+        if (a >= b && a <= c || a <= b && a >= c) {
             System.out.println(a);
-        } else if (b > c && b < a || b < c && b > a) {
+        } else if (b >= c && b <= a || b <= c && b >= a) {
             System.out.println(b);
-        } else if (c > b && c < a || c < b && c > a) {
-            System.out.println(b);
+        } else if (c >= b && c <= a || c <= b && c >= a) {
+            System.out.println(c);
         }
 
     }

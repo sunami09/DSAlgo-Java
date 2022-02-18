@@ -27,7 +27,7 @@ HINT: i=j; i+j = n-1 (i=0;j=0)
 */
 import java.util.*;
 
-public class Main {
+public class Pattern10 {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);

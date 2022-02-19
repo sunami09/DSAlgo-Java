@@ -8,6 +8,26 @@ Constraints
 0 <= n1, n2, .. n elements <= 10
 
 
+Sample Input
+
+5
+3
+1
+0
+7
+5
+
+Sample Output
+			*		
+			*		
+			*	*	
+			*	*	
+*			*	*	
+*			*	*	
+*	*		*	*	
+
+
+
 
 */
 

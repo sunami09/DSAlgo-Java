@@ -1,4 +1,7 @@
 
+/*
+1672. Richest Customer Wealth
+*/
 import java.util.*;
 
 public class RichestCustomerWealth {

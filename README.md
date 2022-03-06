@@ -1,1 +1,1 @@
-# DSAlgo-Java
+# DS Algo in Java
